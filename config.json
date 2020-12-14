@@ -1,0 +1,29 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "e3279093686f6489fa055a57f84fd8e5ec0bdf23b742baff8ba7f9dead2b83ba0d73badfaf1379de8f726",
+				"group_id": "themegacraft",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"longpoll": false,
+				"interval": 30
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discordapp.com/api/webhooks/787959982687125546/TBJ3yc_O2PqkytD8G2wsD5KXlB95NAot4FDMKMpy-V7WYSb3xNlY7H4y2mzxxiBhbs23"
+				],
+				"username": "MegaCraft ВК",
+				"avatar_url": "https://i.ibb.co/rwF3X8X/image.png",
+				"content": "<@&787676769099972618>",
+				"color": "#ff8b00",
+				"author": true,
+				"copyright": true
+			}
+		}
+	],
+	"version_dont_modify_me": 4
+}
